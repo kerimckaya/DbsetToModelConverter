@@ -4,6 +4,37 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>DbSetToModelConverter</PackageId>
+    <Title>DbSetToModelConverter</Title>
+    <Authors>kerimckaya</Authors>
+    <Description>Thanks to this library, you will save time by making rapid conversions between models whose column names contain each other.
+
+Everyone Good Working... :)</Description>
+    <Copyright>Tüm Hakları Kerim Can Kaya'ya aittir  2023-Present</Copyright>
+    <PackageProjectUrl>https://github.com/kerimckaya/DbsetToModelConverter</PackageProjectUrl>
+    <PackageIcon>eslestir.png</PackageIcon>
+    <RepositoryUrl>https://github.com/kerimckaya/DbsetToModelConverter</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Converter,Dbset, Model , Onion Architecture, Dbset To Domain,Domain , Object Converter, Convert ,List To Object List</PackageTags>
+    <PackAsTool>True</PackAsTool>
+    <NeutralLanguage>tr</NeutralLanguage>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <IncludeSymbols>True</IncludeSymbols>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\M2ECore\M2ECore\Resources\eslestir.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
