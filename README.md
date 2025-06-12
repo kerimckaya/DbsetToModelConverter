@@ -61,7 +61,7 @@
   💡 “Karmaşık sistemler sade temeller üzerine inşa edilmelidir.”  
 </p>
 
-------------------------------------ENGLISH-----------------------------------------
+### ENGLISH
 
 
 <h1 align="center">Hi, I'm Kerim 👋</h1>
